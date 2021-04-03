@@ -16,7 +16,6 @@ Idea 1: Fishing Game
         - This would have everything in Form 1 and Form 2, but would have interactive animations
             - For example, the user would be able to move the boat around and pick where to cast. The locations would make a difference as to the probability of catching fish.
 
-TODO
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
@@ -24,4 +23,4 @@ TODO
 
 ## Do you have any questions of your own?
 
-TODO
+For Form 2 and Form 3 what would you recommend for making the annimations. I have turtle in my proposal, but was wondering if you have any better ideas?
